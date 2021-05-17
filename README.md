@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/7zJTPxkCvv" rel="nofollow"><img src="https://img.shields.io/discord/787379943390314507?label=Discord&style=for-the-badge"  style="max-width:100%;"></a>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kaves47&amp;show_icons=true&amp;count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AurowB&amp;show_icons=true&amp;count_private=true)
 
 
 ### Connect with me
