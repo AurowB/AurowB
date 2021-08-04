@@ -1,6 +1,6 @@
 # Sheu
 
-<a href="https://discord.gg/GWJZPguK6y" rel="nofollow"><img src="https://img.shields.io/discord/836630498863611915?label=Discord&style=for-the-badge"  style="max-width:100%;"></a>
+<a href="https://discord.gg/GWJZPguK6y" rel="nofollow"><img src="https://img.shields.io/discord/862077163745574912?label=Discord&style=for-the-badge"  style="max-width:100%;"></a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SheuDev&amp;show_icons=true&amp;count_private=true)
 
